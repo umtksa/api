@@ -1,17 +1,12 @@
 [
     {
-        "Scheduled Time": "zzz",
         "From": "xxx",
         "To": "yyy",
-    },
-      {
         "Scheduled Time": "zzz",
-        "From": "xxx",
-        "To": "yyy",
     },
     {
-        "Scheduled Time": "zzz",
         "From": "xxx",
         "To": "yyy",
+        "Scheduled Time": "zzz",
     },
 ]
