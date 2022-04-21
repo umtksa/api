@@ -1,19 +1,32 @@
 {
-  "IOR index": [
+  "ior": [
     {
       "name": "glass",
-      "min": 1.500,
-      "max": 0,
+      "ior": 1.500
     },
     {
       "name": "diamond",
-      "min": 2.418,
-      "max": 0,
+      "ior": 2.418
     },
-    {
+      {
       "name": "beer",
-      "min": 1.345,
-      "max": 0,
+      "ior": 1.345
+    },
+      {
+      "name": "water",
+      "ior": 1.325
+    },
+      {
+      "name": "ice",
+      "ior": 1.309
+    },
+      {
+      "name": "honey",
+      "ior": 1.484
+    },
+      {
+      "name": "vegetable oil",
+      "ior": 1.470
     }
   ]
 }
