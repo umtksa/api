@@ -1,0 +1,14 @@
+{
+  "IOR index": [
+    {
+      "name": "glass",
+      "min": 1.500,
+      "max": 0,
+    },
+    {
+      "name": "diamond",
+      "min": 2.418,
+      "max": 0,
+    },
+  ]
+}
