@@ -7,3 +7,5 @@ http://78.186.26.188:80/mjpg/video.mjpg
 http://158.58.130.148/mjpg/video.mjpg
 #EXTINF:0,Doylestown US
 http://166.247.77.253:81/mjpg/video.mjpg
+#EXTINF:0,Tokyo JP
+http://124.219.173.212/mjpg/video.mjpg
