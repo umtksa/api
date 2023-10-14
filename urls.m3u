@@ -5,7 +5,7 @@ http://95.9.96.3:91/mjpg/video.mjpg
 http://78.186.26.188:80/mjpg/video.mjpg
 #EXTINF:0,Sochi Russia
 http://158.58.130.148/mjpg/video.mjpg
-#EXTINF:0,Doylestown USA
+#EXTINF:0,Doylestown United States
 http://166.247.77.253:81/mjpg/video.mjpg
 #EXTINF:0,Tokyo Japan
 http://124.219.173.212/mjpg/video.mjpg
@@ -19,23 +19,23 @@ http://85.93.233.159:8080/mjpg/video.mjpg
 http://87.57.111.162/mjpg/video.mjpg
 #EXTINF:0,Moskova Russia
 http://89.221.52.83/mjpg/video.mjpg
-#EXTINF:0,Minneapolis USA
+#EXTINF:0,Minneapolis United States
 http://128.101.85.194/mjpg/video.mjpg
 #EXTINF:0,Den Haag Netherlands
 http://31.160.161.51:8081/mjpg/video.mjpg
 #EXTINF:0,Juarez Mexico
 http://201.174.12.243:1024/mjpg/video.mjpg
-#EXTINF:0,Honolulu USA
+#EXTINF:0,Honolulu United States
 http://128.171.116.45/mjpg/video.mjpg
 #EXTINF:0,England United Kingdom
 http://94.30.51.166:50000/mjpg/video.mjpg
 #EXTINF:0,Zurich Switzerland
 http://46.14.231.181:8888/mjpg/video.mjpg
-#EXTINF:0,Norfolk USA
+#EXTINF:0,Norfolk United States
 http://216.54.27.7/mjpg/video.mjpg
 #EXTINF:0,Prince Albert Canada
 http://142.165.244.145:8084/mjpg/video.mjpg
-#EXTINF:0,Prescott USA
+#EXTINF:0,Prescott United States
 http://199.104.253.17/mjpg/video.mjpg
 #EXTINF:0,Eindhoven Netherlands
 http://80.56.142.202:83/mjpg/video.mjpg
@@ -43,13 +43,16 @@ http://80.56.142.202:83/mjpg/video.mjpg
 http://85.158.74.11/mjpg/video.mjpg
 #EXTINF:0,Dortmund Germany
 http://176.198.135.128:8082/mjpg/video.mjpg
-#EXTINF:0,Jakarta Indonesia
-http://103.151.177.124:91/mjpg/video.mjpg
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
-#EXTINF:0,
+#EXTINF:0,Asahi Japan
+http://211.132.61.124/mjpg/video.mjpg
+#EXTINF:0,Bogota Colombia
+http://181.57.169.89:8080/mjpg/video.mjpg
+#EXTINF:0,Delhi India
+http://117.206.86.54:8080/mjpg/video.mjpg
+#EXTINF:0,Havlickuv Brod Czech Republic
+http://185.137.146.14/mjpg/video.mjpg
+#EXTINF:0,Stockton United States
+http://173.255.111.12/mjpg/video.mjpg
 #EXTINF:0,
 #EXTINF:0,
 #EXTINF:0,
