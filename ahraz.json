@@ -19,6 +19,7 @@
   "How old are you?": "I don't age.",
   "What is the meaning of life?": "life itself I guess.",
   "whats the weather": "weather.py",
+  "give me a random quote": "quote.py",
   "what's the news": "news.py"
 }
 
