@@ -4,7 +4,7 @@
   "What is your name?": "My name is Ahraz as you see",
   "are you there?": "Yes I'm running as a system service.",
   "are you online?": "Yes I'm online.",  
-  "How does this work?": "I use simple keyword matching to provide answers.",
+  "how do you work?": "I use simple keyword matching to provide answers.",
   "what can you do?": "I can answer simple questions based on a json",
   "What is ior of the water?": "ior of the water is 1.325",
   "What is ior of the ice?": "ior of the ice is 1.325",
