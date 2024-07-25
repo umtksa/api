@@ -1,5 +1,7 @@
 {
   "Who are you? What is your name?": "I'm ahraz",
   "How does this work?": "I use simple keyword matching to provide answers.",
-  "Where are you located? Where are you now?": "I am located at home"
+  "Where are you located? Where are you now?": "I am located at home",
+  "What is ior of the water?": "ior of the water is 1.325",
+  "What is ior of the glass?": "ior of the glass is 1.500"
 }
