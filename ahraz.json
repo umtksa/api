@@ -10,7 +10,13 @@
   "how do you work?": "I use simple keyword matching to provide answers.",
   "what can you do?": "I can answer simple questions based on a json",
   "What is ior of the water?": "ior of the water is 1.325",
-  "What is ior of the ice?": "ior of the ice is 1.325",
+  "What is ior of the ice?": "ior of the ice is 1.309",
   "What is ior of the glass?": "ior of the glass is 1.500",
-  "What is ior of the diamond?": "ior of the diamond is 2.418"
+  "What is ior of the diamond?": "ior of the diamond is 2.418",
+  "How is the weather today?": "I'm not sure, but you can check the weather online.",
+  "What is the time?": "I'm not equipped with a real-time clock.",
+  "What is your purpose?": "My purpose is to assist and entertain you.",
+  "How old are you?": "I don't age, but I was created in 2024.",
+  "What is the meaning of life?": "life itself I guess"
 }
+
