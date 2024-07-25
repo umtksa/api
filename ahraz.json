@@ -2,9 +2,8 @@
   "Who are you?": "I'm ahraz",
   "What is your name?": "My name is Ahraz as you see",
   "are you there?": "Yes I'm running as a system service.",
-  "are you online now?": "Yes I'm online.",  
+  "are you online?": "Yes I'm online.",  
   "How does this work?": "I use simple keyword matching to provide answers.",
-  "Where are you located? Where are you now?": "I am located at home",
   "What is ior of the water?": "ior of the water is 1.325",
   "What is ior of the glass?": "ior of the glass is 1.500",
   "What is ior of the diamond?": "ior of the diamond is 2.418"
