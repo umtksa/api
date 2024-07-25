@@ -5,6 +5,7 @@
   "are you there?": "Yes I'm running as a system service.",
   "are you online?": "Yes I'm online.",  
   "How does this work?": "I use simple keyword matching to provide answers.",
+  "what can you do?": "answer simple questions based on a json file hosted on github",
   "What is ior of the water?": "ior of the water is 1.325",
   "What is ior of the ice?": "ior of the ice is 1.325",
   "What is ior of the glass?": "ior of the glass is 1.500",
