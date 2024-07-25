@@ -1,7 +1,6 @@
 {
   "Who are you?": "I'm ahraz",
   "Thank you": "happy to help you",
-  "What is your name?": "My name is Ahraz as you see",
   "are you there?": "Yes I'm running as a system service.",
   "are you online?": "Yes I'm online.",
   "where are you now?": "at home now", 
@@ -19,7 +18,7 @@
   "What is the largest planet in our solar system?": "Jupiter is the largest planet in our solar system.",
   "What is the distance from the Earth to the Moon?": "The average distance from the Earth to the Moon is about 384,400 kilometers.",
   "What is the chemical symbol for gold?": "The chemical symbol for gold is Au.",
-  "How old are you?": "I don't age, but I was created in 2024.",
-  "What is the meaning of life?": "life itself I guess"
+  "How old are you?": "I don't age.",
+  "What is the meaning of life?": "life itself I guess......"
 }
 
