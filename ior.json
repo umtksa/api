@@ -1,32 +1,9 @@
 {
-  "ior": [
-    {
-      "name": "glass",
-      "ior": 1.500
-    },
-    {
-      "name": "diamond",
-      "ior": 2.418
-    },
-      {
-      "name": "beer",
-      "ior": 1.345
-    },
-      {
-      "name": "water",
-      "ior": 1.325
-    },
-      {
-      "name": "ice",
-      "ior": 1.309
-    },
-      {
-      "name": "honey",
-      "ior": 1.484
-    },
-      {
-      "name": "oil",
-      "ior": 1.470
-    }
-  ]
+    "1.500": "glass",
+    "2.418": "diamond",
+    "1.309": "ice",
+    "1.470": "oil",
+    "1.345": "beer",
+    "1.325": "water",
+    "1.484": "honey"
 }
