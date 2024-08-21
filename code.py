@@ -14,9 +14,10 @@ else:
 patterns = {
     'zaman': r'\b(ne zaman\w*)\b',
     'nasıl': r'\b(nasıl\w*)\b',
+    'naber': r'\b(naber\w*)\b',
     'hangi': r'\b(hangi\w*)\b',
     'yer': r'\b(nere|nere\w*)\b',
-    'fiyat': r'\b(kaça)\b',
+    'fiyat': r'\b(kaça|fiyat\w*)\b',
     'miktar': r'\b(kaç)\b',
     'kişi': r'\b(kim|kim\w*)\b',
     'mı': r'\b(mi\w*|mü\w*|mı\w*|mu\w*)\b',
@@ -34,36 +35,43 @@ def identify_question_type(sentence):
 
     return 'Belirlenemedi', sentence
 
-def extract_core_question(sentence, category):
-    # Her kategori için özelleştirilmiş çıkarım fonksiyonları burada yer alabilir
-    if category == 'zaman':
-        return re.sub(patterns[category], '', sentence).strip()
-    elif category == 'yer':
-        return re.sub(patterns[category], '', sentence).strip()
-    # Diğer kategoriler için de benzer işlemler yapılabilir
-    return sentence
-
 def process_sentences(sentences):
-    identified_questions = []
-    unidentified_questions = []
+    categorized_questions = {
+        'zaman': [],
+        'nasıl': [],
+        'naber': [],
+        'hangi': [],
+        'yer': [],
+        'fiyat': [],
+        'miktar': [],
+        'kişi': [],
+        'mı': [],
+        'ne': [],
+        'Belirlenemedi': []
+    }
 
     for sentence in sentences:
         category, matched_part = identify_question_type(sentence)
         if category == 'Belirlenemedi':
-            unidentified_questions.append(sentence)
+            categorized_questions['Belirlenemedi'].append(sentence)
         else:
-            core_question = extract_core_question(sentence, category)
-            identified_questions.append((category, core_question))
+            categorized_questions[category].append(sentence)
 
-    return identified_questions, unidentified_questions
+    return categorized_questions
 
 # Sonuçları yazdırma
-identified_questions, unidentified_questions = process_sentences(sentences)
+categorized_questions = process_sentences(sentences)
 
-for q_type, sentence in identified_questions:
-    print(f"{q_type} - {sentence}")
+# Başlıkları bir kez yazdır ve altına o başlıktaki cümleleri yazdır
+for category in patterns.keys():
+    if categorized_questions[category]:
+        print(f"--- {category} soruları ---")
+        for question in categorized_questions[category]:
+            print(f"- {question}")
 
-print(f"-----")
 
-for sentence in unidentified_questions:
-    print(f"Cümle: {sentence}")
+# Soru olmayan cümleleri en sona koy
+if categorized_questions['Belirlenemedi']:
+    print(f"--- soru olmayanlar ---")
+    for sentence in categorized_questions['Belirlenemedi']:
+        print(f"- {sentence}")
