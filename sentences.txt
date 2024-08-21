@@ -73,7 +73,6 @@ Ne zaman tekrar görüşeceğiz?
 Kimler toplantıya katılacak?
 Ne şekilde daha verimli çalışabilirim?
 Hangi tatları tercih edersin?
-Kaç yaşındasın?
 Hangi film türlerini izlersin?
 Ne tür tatlılar yapıyorsun?
 sen gerizekalı mısın?
@@ -83,6 +82,15 @@ yeteneklerin nelerdir?
 keman çalmayı nasıl öğrenebilirim?
 Ne kadar sürede tamamlayabilirsin?
 Nerede buluşabiliriz?
+kilosu kaça bunların?
+hangilerinden başlayacaksın?
+yeterli sıvı tüketiyor musun?
+bunlar kaça olur?
+en son kaça olur?
+hava durumu nasıl?
+havalar çok sıcak mı?
+hava güneşli mi?
+ne giymeliyim?
 Ne tür aktiviteler yapmaktan hoşlanırsın?
 nasıl olduğunu anlayabildin mi?
 Kimlerle çalışıyorsun?
