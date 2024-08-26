@@ -6,6 +6,8 @@ akşam ilaçlarını içtin mi?
 yedeklerde misin?
 turgut özal kimdir?
 sen kimsin?
+mermi koç kimdi?
+elif deneme kimdir?
 ben kimim?
 ev sahibi kimdir?
 elif soyadı kimdir?
