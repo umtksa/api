@@ -8,6 +8,7 @@ turgut özal kimdir?
 sen kimsin?
 ben kimim?
 ev sahibi kimdir?
+elif soyadı kimdir?
 mustafa altıoklar kimdir?
 yerler kayıyor mu?
 yedekleme yapmanı isteyebilir miyim?
