@@ -1,4 +1,4 @@
-Ankaranın plaka kodu 06'dır.
+Ankara'nın plaka kodu 06'dır.
 1881 yılında doğdu.
 Python bir programlama dilidir.  
 Antalya'nın plaka kodu 07'dir
