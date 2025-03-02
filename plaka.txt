@@ -1,3 +1,5 @@
 Ankara'nın plaka kodu 06'dır.
 Antalya'nın plaka kodu 07'dir.
 İstanbul'un plaka kodu 34'dür.
+Afyon'un plaka kodu 03'dür.
+Hatay'ın plaka kodu 31'dir.
