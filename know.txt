@@ -3,4 +3,5 @@ Ankara'nın plaka kodu 06'dır.
 Python bir programlama dilidir.  
 Antalya'nın plaka kodu 07'dir
 Almanya'nın başkenti Berlin.
+Antalya'nın meşhur yemeği tahinli piyazdır.
 Hatay'ın plaka kodu 31'dir.
