@@ -1,19 +1,23 @@
-Malatya'nın plakası kaçtır?
-Antalya'nın plaka kodu nedir?
-İzmir'in plakası 35 midir?
-16 Bursa'nın plakası mıdır?
-51 Zonguldak'ın plakası değilmi?
-bir sonraki Bostancı motoru ne zaman?
-Bostancıya ilk motor ne zaman?
-Büyükada'ya son motor saat kaçta?
-Bostancı'ya giden son vapur saat kaçta?
+Malatya'nın plakası kaçtır
+Antalya'nın plaka kodu nedir
+İzmir'in plakası 35 midir
+16 Bursa'nın plakası mıdır
+51 Zonguldak'ın plakası değilmi
+bir sonraki Bostancı motoru ne zaman
+Bostancıya ilk motor ne zaman
+Büyükada'ya son motor saat kaçta
+Bostancı'ya giden son vapur saat kaçta
 365-32
-463+324 işleminin sonucu nedir?
-478*234=?
-789'in yarısı kaçtır?
-Ahmet Hakan kimdir?
-Elon musk kimdir?
-#746478 renk kodunun rgb ve cmk değerlerini verir misin?
-#382922 renginin RGB karşılığı nedir?
-#230972 cmyk olarak verir misin?
+463+324 işleminin sonucu nedir
+478*234=
+555/3
+898735.2*55=
+556+87 kaç eder
+56/2 işleminin sonucu
+899*365 kaç yapar
+Ahmet Hakan kimdir
+Elon musk kimdir
+#746478 renk kodunun rgb ve cmk değerlerini verir misin
+#382922 renginin RGB karşılığı nedir
+#230972 cmyk olarak verir misin
 #364876 rgb ve cmyk
