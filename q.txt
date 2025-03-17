@@ -11,3 +11,9 @@ Bostancı'ya giden son vapur saat kaçta?
 463+324 işleminin sonucu nedir?
 478*234=?
 789'in yarısı kaçtır?
+Ahmet Hakan kimdir?
+Elon musk kimdir?
+#746478 renk kodunun rgb ve cmk değerlerini verir misin?
+#382922 renginin RGB karşılığı nedir?
+#230972 cmyk olarak verir misin?
+#364876 rgb ve cmyk
