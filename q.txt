@@ -20,7 +20,7 @@ Bostancı'ya giden son vapur saat kaçta
 899*365 kaç yapar
 Ahmet Hakan kimdir?
 Elon musk kimdir
-#746478 renk kodunun rgb ve cmk değerlerini verir misin
+#746478 renk kodunun rgb ve cmyk değerlerini verir misin
 #382922 renginin RGB karşılığı nedir
 #230972 cmyk olarak verir misin
 #364876 rgb ve cmyk
