@@ -1,6 +1,0 @@
-Ankara'nın plaka kodu nedir?::Ankaranın plaka kodu 06'dır.
-Atatürk kaç yılında doğdu?::1881 yılında doğdu.
-Python nedir?::Bir programlama dili.  
-Antalya'nın plaka kodu nedir?::07
-Almanya'nın başkenti neresidir?::Berlin
-Hatay'ın plaka kodu nedir?::Hatay'ın plaka kodu 31'dir.
