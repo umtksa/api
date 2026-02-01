@@ -1,1 +1,3 @@
-# Deneme deneme 123
+# Deneme
+
+Bu dosya Node-RED üzerinden yazıldı. evet
