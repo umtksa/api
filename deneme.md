@@ -1,3 +1,1 @@
-# Deneme
-
-Bu dosya Node-RED üzerinden yazıldı. evet
+# Deneme deneme 123
